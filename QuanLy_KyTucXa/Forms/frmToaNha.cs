@@ -207,7 +207,7 @@ namespace QuanLy_KyTucXa.Forms
 
                 if (xuLyThem)
                 {
-                    // --- LOGIC THÊM MỚI ---
+                   
 
                     // Kiểm tra trùng mã
                     if (context.Phongs.Find(txtMaPhong.Text) != null)

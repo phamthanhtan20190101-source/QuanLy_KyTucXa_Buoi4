@@ -126,7 +126,7 @@
             // groupBox2
             // 
             groupBox2.Controls.Add(dataGridViewToaD);
-            groupBox2.Location = new Point(1052, 382);
+            groupBox2.Location = new Point(1052, 368);
             groupBox2.Name = "groupBox2";
             groupBox2.Size = new Size(462, 332);
             groupBox2.TabIndex = 0;
